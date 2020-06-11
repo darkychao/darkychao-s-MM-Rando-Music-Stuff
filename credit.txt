@@ -1,13 +1,13 @@
 --Original Composers--
 hro-	Eishin Kawakami
 
-rs-		Ian "Mod Ian T" Taylor
-		Ashleigh "Mod Ash" Bridges
+rs-	Ian "Mod Ian T" Taylor
+	Ashleigh "Mod Ash" Bridges
 
 gvr-	Rob Lord
 
-sg-		Nick Oleksiak
-			(transcribed by MelonadeM)
+sg-	Nick Oleksiak
+		(transcribed by MelonadeM)
 
 trr-	Masanori Adachi
 
